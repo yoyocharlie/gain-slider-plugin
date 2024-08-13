@@ -1,0 +1,20 @@
+# Ignore build artifacts
+Builds/
+
+# Ignore IDE-specific files
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.xcscheme
+*.xcuserstate
+*.xcworkspace
+*.xcuserdatad
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+*.DS_Store

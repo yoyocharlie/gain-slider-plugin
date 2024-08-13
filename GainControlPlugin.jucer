@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="KtpONO" name="GainControlPlugin" projectType="audioplug"
               useAppConfig="0" addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1"
-              pluginFormats="buildAAX,buildStandalone">
+              pluginFormats="buildAAX,buildStandalone" pluginAAXCategory="2">
   <MAINGROUP id="hk7KMp" name="GainControlPlugin">
     <GROUP id="{DDD3B486-3141-7DA5-2203-40886F978D84}" name="Source">
       <FILE id="nkJQHZ" name="PluginProcessor.cpp" compile="1" resource="0"
